@@ -1,3 +1,3 @@
-# Android Library项目模板
+# Cuber插件加载实现
 
-提供一个在公司内开发、维护Android Library,并且将它发布到maven.oa.com的一个模版。
+动态加载apk的一种实现.
